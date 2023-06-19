@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599638921134",
+    "project_id": "flipflop-c7c5a",
+    "storage_bucket": "flipflop-c7c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599638921134:android:19bbae85f923c16bccc23f",
+        "android_client_info": {
+          "package_name": "com.example.flipflop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599638921134-lufe66tpjicpjdgc4f83rclnu3cevs1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkZ9i9NqNPjsT0BPN3XfvnugBprlzZYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599638921134-lufe66tpjicpjdgc4f83rclnu3cevs1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
